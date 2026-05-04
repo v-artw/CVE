@@ -1,6 +1,3 @@
-# CVE
-2026-31431
-bash fix_cve-2026-31431-en.sh or sh fix_cve-2026-31431-en.sh
 ==================================================================
   CVE-2026-31431 (Copy Fail) Vulnerability General Detection and Remediation Script
 ==================================================================
@@ -28,8 +25,8 @@ Starting remediation...
 cve-2026-31431.sh: line 95: can't create /etc/modprobe.d/disable-algif_aead.conf: nonexistent directory
   [√] Blocklist rule written: /etc/modprobe.d/disable-algif_aead.conf
   [√] Successfully unloaded algif_aead module from memory, blocking the vulnerability immediately.
-  中文
-  ==================================================================
+
+==================================================================
   CVE-2026-31431 (Copy Fail) 漏洞通用检测与修复脚本
 ==================================================================
 [1/4] 检查系统漏洞状态...
