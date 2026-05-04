@@ -54,4 +54,3 @@ cve-2026-31431.sh: line 95: can't create /etc/modprobe.d/disable-algif_aead.conf
   [√] 已写入底层禁用规则: /etc/modprobe.d/disable-algif_aead.conf
   [INFO] 检测到 update-initramfs 工具，正在更新内核启动镜像 (预计需要 1-2 分钟)...
   [√] 内核启动镜像更新完成。
-  
